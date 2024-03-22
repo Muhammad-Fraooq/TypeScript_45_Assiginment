@@ -1,2 +1,3 @@
 # TypeScript_45_Assiginment
-My TypeScript work
+My TypeScript 45 Question Assigment
+
