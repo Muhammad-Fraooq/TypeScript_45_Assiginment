@@ -1,3 +1,3 @@
-# TypeScript_45_Assiginment
-My TypeScript 45 Question Assigment
+# TypeScript_45_Assignments
+My TypeScript 45 Question Assignments.
 
